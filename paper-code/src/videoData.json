@@ -1,0 +1,42 @@
+{
+    "name":"Tabletop Manipulation: Blocks",
+    "options":[
+        {
+            "key":1,
+            "name":"1) Put the blocks in a horizontal line near the top",
+            "time": "00:00:00",
+            "codePath":" "
+        },
+        {
+            "key":2,
+            "name":"2) Put the blocks in a horizontal line near the top",
+            "time": "00:00:00",
+            "codePath":" "
+        },
+        {
+            "key":3,
+            "name":"3) Put the blocks in a horizontal line near the top",
+            "time": "00:00:00",
+            "codePath":" "
+        },
+        {
+            "key":4,
+            "name":"4) Put the blocks in a horizontal line near the top",
+            "time": "00:00:00",
+            "codePath":" "
+        },
+        {
+            "key":5,
+            "name":"5)  line near the top",
+            "time": "00:00:00",
+            "codePath":" "
+        },
+        {
+            "key":6,
+            "name":"6) Put the blocks in a horizontal ",
+            "time": "00:00:00",
+            "codePath":" "
+        }
+    ],
+    "videoUrl":"./../static/videos/blocks.mp4"
+}
