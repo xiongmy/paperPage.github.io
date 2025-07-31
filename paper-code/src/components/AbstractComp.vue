@@ -1,11 +1,11 @@
 <template>
-  <div class="hello">
+  <div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Abstract',
+  name: 'AbstractComp',
   props: {
     msg: String
   }
