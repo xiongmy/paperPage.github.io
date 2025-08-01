@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<ul class="author-box mt-4">
+		<ul class="author-box mt-8">
 			<li><a href="//jacky.io">Jacky Liang</a></li>
 			<li><a href="//wenlong.page/">Wenlong Huang</a></li>
 			<li><a href="//fxia22.github.io/">Fei Xia</a></li>
@@ -51,7 +51,7 @@ export default {
 	name: 'AuthorInfo',
 }
 </script>
-<style scoped>
+<style>
 .author-box li {
   display: inline-block;
   margin: 0 12px 6px;
